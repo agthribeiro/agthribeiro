@@ -7,11 +7,11 @@ Me chamo Ágatha, tenho 22 anos e sou natural de São Paulo. Atualmente, estou c
 <p align="center">
     
   <a href="www.linkedin.com/in/ágatha-ribeiro-a41872234" target="blank">
-    <img align="center" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width=20 />
+    <img align="center" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width=40 />
     </a>
     
   <a href="mailto:agthribeiroo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width=20 />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width=40 />
     </a>
 </p>
 
