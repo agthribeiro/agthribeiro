@@ -5,11 +5,11 @@ src= "https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&
 Me chamo Ágatha, tenho 22 anos e sou natural de São Paulo. Atualmente, estou cursando Ciências da Computação.
 
 <p align="center">
-    <a href="www.linkedin.com/in/ágatha-ribeiro-a41872234">
-         <a href="www.linkedin.com/in/ágatha-ribeiro-a41872234" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-        
+    
+  <a href="www.linkedin.com/in/ágatha-ribeiro-a41872234" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    </a>
+    
   <a href="mailto:agthribeiroo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
