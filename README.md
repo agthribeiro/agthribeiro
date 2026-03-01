@@ -2,7 +2,7 @@
 src= "https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&text=Olá,%20sou%20a%20Ágatha!&section=header&reversal=true&textBg=false&fontSize=70&animation=scaleIn&rotate=16&strokeWidth=0&desc=Bem-vindo(a)!&descSize=30&fontColor=F0F0F0&stroke=0D0D0D&descAlign=48&descAlignY=62"
 />
 
-Me chamo Ágatha, tenho 22 anos e sou natural de São Paulo. Atualmente, estou cursando Ciências da Computação na UNICID. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Ágatha, tenho 22 anos e sou natural de São Paulo. Atualmente, estou cursando Ciências da Computação.
 
 <p align="left">
     </a> 
