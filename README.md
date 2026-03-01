@@ -4,7 +4,7 @@ src= "https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&
 
 Me chamo Ágatha, tenho 22 anos e sou natural de São Paulo. Atualmente, estou cursando Ciências da Computação.
 
-<p align="left">
+<p align="center">
     </a> 
     <a href="www.linkedin.com/in/ágatha-ribeiro-a41872234">
          <a href="www.linkedin.com/in/ágatha-ribeiro-a41872234" target="_blank">
