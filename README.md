@@ -6,15 +6,15 @@ Me chamo Ágatha, tenho 22 anos e sou natural de São Paulo. Atualmente, estou c
 
 <h2 align="left">🌐 Vamo se conectar?</h2>
 
-<p align="center">
-  <a href="www.linkedin.com/in/ágatha-ribeiro-a41872234" target="blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    
-  <a href="mailto:agthribeiroo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-</p>
+  <div align="center">
+  <a href="https://www.linkedin.com/in/%C3%A1gatha-ribeiro-a41872234/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  
+  <a href="mailto:agthribeiroo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+</div>
 
 ---
 
@@ -61,4 +61,9 @@ Me chamo Ágatha, tenho 22 anos e sou natural de São Paulo. Atualmente, estou c
   />
 
 </p>
--->
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=9E5BA7&center=true&vCenter=true&repeat=false&width=435&lines=Obrigada+pela+sua+visita!;Thanks+for+your+visit!" />
+</div>
