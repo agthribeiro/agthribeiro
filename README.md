@@ -7,7 +7,7 @@ Me chamo Ágatha, tenho 22 anos e sou natural de São Paulo. Atualmente, estou c
 <h2 align="left">🌐 Vamos se conectar?</h2>
 
 <p align="center">
-  <a href="www.linkedin.com/in/ágatha-ribeiro-a41872234" target="blank">
+  <a href="[www.linkedin.com/in/ágatha-ribeiro-a41872234](https://www.linkedin.com/in/%C3%A1gatha-ribeiro-a41872234/)" target="blank">
     <img align="center" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     
