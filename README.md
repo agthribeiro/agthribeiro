@@ -40,6 +40,8 @@ Me chamo Ágatha, tenho 22 anos e sou natural de São Paulo. Atualmente, estou c
 
 ###
 
+---
+
 ### 📊 Estatísticas
 
 <p>
