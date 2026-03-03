@@ -6,7 +6,9 @@ src= "https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&
 A cada dia que passa, busco estudar e aprimorar meus conhecimentos, sempre com o desejo de aprender mais através do desenvolvimento de projetos práticos e do enfrentamento de novos desafios lógicos. 
 Meu grande objetivo de carreira é me tornar uma Desenvolvedora Java Senior!
 
-<h2 align="left">🌐 Vamo se conectar?</h2>
+---
+
+##🌐 Vamo se conectar?
 
   <div align="center">
   <a href="https://www.linkedin.com/in/%C3%A1gatha-ribeiro-a41872234/" target="_blank">
@@ -18,9 +20,12 @@ Meu grande objetivo de carreira é me tornar uma Desenvolvedora Java Senior!
   </a>
 </div>
 
+<br>
+<br>
+
 ---
 
-<h2 align="left">⚙️ Stacks </h2>
+## ⚙️ Stacks 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -40,17 +45,27 @@ Meu grande objetivo de carreira é me tornar uma Desenvolvedora Java Senior!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
-
+<br>
+<br>
 ---
 
-<h2 align="left">📊 Estatística </h2>
+## 📊 Estatísticas
 
-<p>
-<a href="https://github.com/jstrieb/github-stats">
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
+<img
+  align="left"
+  alt="Github Stats"
+  height="200"
+  style="padding-right:10px;"
+  src="https://github-readme-stats.vercel.app/api?username=agthribeiro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
+
+<img
+  align="left"
+  alt="Github Stats"
+  height="200"
+  style="padding-right:10px;"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=agthribeiro&theme=tokyonight&layout=compact&include_all_commits=true&locale=pt-br&custom_title=Tecnologias&langs_count=5"
+  />
 
 </p>
 
