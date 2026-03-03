@@ -62,7 +62,7 @@ Meu grande objetivo de carreira é me tornar uma **'Desenvolvedora Java'**!
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=agthribeiro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=agthribeiro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=1" 
   />
 
 </p>
