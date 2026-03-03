@@ -8,7 +8,7 @@ Meu grande objetivo de carreira é me tornar uma **'Desenvolvedora Java'**!
 
 ---
 
-###🌐 Vamo se conectar?
+### 🌐 Vamo se conectar?
 
   <div align="center">
   <a href="https://www.linkedin.com/in/%C3%A1gatha-ribeiro-a41872234/" target="_blank">
