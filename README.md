@@ -2,6 +2,8 @@
 src= "https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&text=Olá,%20sou%20a%20Ágatha!&section=header&reversal=true&textBg=false&fontSize=70&animation=scaleIn&rotate=16&strokeWidth=0&desc=Bem-vindo(a)!&descSize=30&fontColor=F0F0F0&stroke=0D0D0D&descAlign=48&descAlignY=62"
 />
 
+**`Desenvolvedora Backend`**
+
   Olá! Sou estudante do 3º período de Ciência da Computação e uma pessoa naturalmente curiosa, apaixonada por tecnologia e pelas possibilidades que ela cria. 
 A cada dia que passa, busco estudar e aprimorar meus conhecimentos, sempre com o desejo de aprender mais através do desenvolvimento de projetos práticos e do enfrentamento de novos desafios lógicos. 
 Meu grande objetivo de carreira é me tornar uma **'Desenvolvedora Java'**!
@@ -26,25 +28,70 @@ Meu grande objetivo de carreira é me tornar uma **'Desenvolvedora Java'**!
 
 ### ⚙️ Stacks 
 
-<div align="center">
-  <img src="../img/javascript.png" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="../img/react.png" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="../img/php.png" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="../img/c.png" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="../img/mysql.png" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="../img/java.png" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="../img/tailwind.png" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="../img/python.png" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="../img/figma.png" height="40" alt="figma logo"  />
-</div>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
 <br>
 
@@ -72,18 +119,14 @@ Meu grande objetivo de carreira é me tornar uma **'Desenvolvedora Java'**!
 
 </p>
 
-<div align=center>
- <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/agthribeiro/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/agthribeiro/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-</div>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ---
 
