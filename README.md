@@ -133,15 +133,7 @@ Meu grande objetivo de carreira é me tornar uma **'Desenvolvedora Java'**!
 
 </p>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
+![snake gif](https://github.com/agthribeiro/agthribeiro/blob/output/github-contribution-grid-snake.svg)
 ---
 
 <div align="center">
