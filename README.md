@@ -52,14 +52,6 @@ Meu grande objetivo de carreira é me tornar uma **'Desenvolvedora Java'**!
 
 ### 📊 Estatísticas
 
-<div align=center>
-
-  <img src="https://raw.githubusercontent.com/agthribeiro/agthribeiro/output/snake.svg" alt="Snake animation">
-  
-</div>
-
-<br>
-
 <p>
   <img 
     align="left" 
@@ -72,17 +64,33 @@ Meu grande objetivo de carreira é me tornar uma **'Desenvolvedora Java'**!
   
 
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=agthribeiro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=agthribeiro&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=5" 
   />
 
 </p>
 
-<br>
-<br>
+<div align=center>
+ <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/agthribeiro/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/agthribeiro/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+</div>
+
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=9E5BA7&center=true&vCenter=true&repeat=false&width=435&lines=Obrigada+pela+sua+visita!;Thanks+for+your+visit!" />
+<a href="https://git.io/typing-svg" >
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=9E5BA7&center=true&vCenter=true&repeat=true&width=435&lines=Obrigada+pela+sua+visita!;Thanks+for+your+visit!">
+</a>
 </div>
+
+
