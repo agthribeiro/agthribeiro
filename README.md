@@ -126,12 +126,6 @@ Meu grande objetivo de carreira é me tornar uma **'Desenvolvedora Java'**!
     src="https://github-readme-stats.vercel.app/api?username=agthribeiro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-  align="center" 
-  alt="agthribeiro"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=agthribeiro&theme=tokyonight"/>
-</p>
-
 ---
 
 <div align="center">
