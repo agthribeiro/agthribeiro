@@ -58,6 +58,8 @@ Meu grande objetivo de carreira é me tornar uma **'Desenvolvedora Java'**!
   
 </div>
 
+<br>
+
 <p>
   <img 
     align="left" 
@@ -67,16 +69,19 @@ Meu grande objetivo de carreira é me tornar uma **'Desenvolvedora Java'**!
     src="https://github-readme-stats.vercel.app/api?username=agthribeiro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+  
+
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=agthribeiro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=1" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=agthribeiro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 
 </p>
 
----
+<br>
+<br>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=9E5BA7&center=true&vCenter=true&repeat=false&width=435&lines=Obrigada+pela+sua+visita!;Thanks+for+your+visit!" />
