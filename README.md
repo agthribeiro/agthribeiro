@@ -114,26 +114,24 @@ Meu grande objetivo de carreira é me tornar uma **'Desenvolvedora Java'**!
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=agthribeiro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  
-
 <img 
-      align="right" 
+      align="center" 
       alt="GitHub Stats" 
-      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=agthribeiro&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=5" 
   />
 
+  <img 
+    align="center" 
+    alt="GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=agthribeiro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+  align="center" 
+  alt="agthribeiro"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=agthribeiro&theme=tokyonight"/>
 </p>
 
-![snake gif](https://github.com/agthribeiro/agthribeiro/blob/output/github-contribution-grid-snake.svg)
 ---
 
 <div align="center">
