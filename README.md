@@ -51,6 +51,13 @@ Meu grande objetivo de carreira é me tornar uma **'Desenvolvedora Java'**!
 ---
 
 ### 📊 Estatísticas
+
+<div align=center>
+
+  <img src="https://raw.githubusercontent.com/agthribeiro/agthribeiro/output/snake.svg" alt="Snake animation">
+  
+</div>
+
 <p>
   <img 
     align="left" 
