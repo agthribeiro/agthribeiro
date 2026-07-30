@@ -4,7 +4,7 @@ src= "https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&
 
 **`Desenvolvedora de Software`**
 
-  Olá! Sou estudante do 3º período de Ciência da Computação e uma pessoa naturalmente curiosa, apaixonada por tecnologia e pelas possibilidades que ela cria. 
+  Olá! Sou estudante do 4º período de Ciência da Computação e uma pessoa naturalmente curiosa, apaixonada por tecnologia e pelas possibilidades que ela cria. 
 A cada dia que passa, busco estudar e aprimorar meus conhecimentos, sempre com o desejo de aprender mais através do desenvolvimento de projetos práticos e do enfrentamento de novos desafios lógicos. 
 Meu grande objetivo de carreira atualmente é me tornar uma **'Desenvolvedora Java'**!
 
